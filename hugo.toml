@@ -16,7 +16,7 @@ minifyOutput = true
 [params]
 env = "production"
 keywords = ["blog", "poetry", "music", "art", "sketches", "drawings", "ep133"]
-DateFormat = "2006-02-01"
+DateFormat = "2006-01-02"
 defaultTheme = "auto"
 disableThemeToggle = false
 
@@ -52,7 +52,7 @@ Title = "Hi, I'm Gram 👋"
 Content = "This is a big pile where I throw some of my creative stuff: poetry, music, drwaings, etc."
 
 [[menu.main]]
-name = "🖋 poetry"
+name = "📝 poetry"
 url = "/posts/poetry/"
 weight = 1
 
