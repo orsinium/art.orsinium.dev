@@ -1,0 +1,77 @@
+baseURL = "https://art.orsinium.dev/"
+languageCode = "en-us"
+title = "Gram's Art"
+paginate = 40
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+keywords = ["blog", "poetry", "music", "art", "sketches", "drawings", "ep133"]
+DateFormat = "2006-02-01"
+defaultTheme = "auto"
+disableThemeToggle = false
+
+ShowReadingTime = false
+ShowShareButtons = true
+ShowPostNavLinks = false
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = false
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = true
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = true
+showtoc = true
+tocopen = false
+
+socialIcons = [
+    { name = "home", url = "https://orsinium.dev/" },
+    { name = "rss", url = "/index.xml" },
+    { name = "mastodon", url = "https://fosstodon.org/@orsinium/" },
+]
+
+[params.editPost]
+URL = "https://github.com/orsinium/art.orsinium.dev/blob/master/content/"
+Text = "source"
+appendFilePath = true
+
+[params.homeInfoParams]
+Title = "Hi, I'm Gram 👋"
+Content = "This is a big pile where I throw some of my creative stuff: poetry, music, drwaings, etc."
+
+[[menu.main]]
+name = "🖋 poetry"
+url = "/posts/poetry/"
+weight = 1
+
+[[menu.main]]
+name = "🎵 music"
+url = "/posts/music/"
+weight = 2
+
+[[menu.main]]
+name = "🏷 tags"
+url = "/tags/"
+weight = 10
+
+[[menu.main]]
+name = "📶 rss"
+url = "/index.xml"
+weight = 20
+
+[[menu.main]]
+name = "👋 me"
+url = "https://orsinium.dev"
+weight = 30
