@@ -1,5 +1,5 @@
 ---
-title: "Crossroads"
+title: "crossroads"
 date: 2024-10-07
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "In pursuit of happiness"
+title: "in pursuit of happiness"
 date: 2024-10-14
 ---
 
-"На части" ("Into pieces") by [Lumen](https://en.wikipedia.org/wiki/Lumen_(band)) is a song that always makes me cry. Here is a piece of chorus: chorus:
+"[На части](https://www.youtube.com/watch?v=eKvK6Z3NUj0)" ("Into pieces") by [Lumen](https://en.wikipedia.org/wiki/Lumen_(band)) is a song that always makes me cry. Here is a piece of chorus:
 
 | Original | Translation |
 |-|-|

@@ -51,6 +51,9 @@ appendFilePath = true
 Title = "Hi, I'm Gram 👋"
 Content = "This is a big pile where I throw some of my creative stuff: poetry, music, drwaings, etc."
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [[menu.main]]
 name = "📝 poetry"
 url = "/posts/poetry/"
