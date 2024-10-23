@@ -13,9 +13,9 @@ I won't lose my peace because
 This battle is a lost cause  
 
 You're nothing but a ghost  
-Yeah, sure, I lost  
+I know that I lost  
 The reality grip  
-I might've seen you in sleep  
+I might've seen you in my sleep  
 
 Never again  
 Getting the strain  
