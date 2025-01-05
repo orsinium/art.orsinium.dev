@@ -43,5 +43,5 @@ Every laugh and every cry
 You are  
 The ocean and the sky  
 
-You are
+You are  
 The one

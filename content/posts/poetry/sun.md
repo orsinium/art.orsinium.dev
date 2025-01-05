@@ -3,7 +3,7 @@ title: "sun"
 date: 2024-10-16
 ---
 
-An aatempt into a self-confidence verse, in the spirit of bands like Adelitas Way. Also, it's more heavy on pop-cultural references that usual. How many can you get?
+An attempt into a self-confidence verse, in the spirit of bands like Adelitas Way. Also, it's more heavy on pop-cultural references that usual. How many can you get?
 
 ---
 

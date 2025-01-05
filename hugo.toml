@@ -49,7 +49,7 @@ appendFilePath = true
 
 [params.homeInfoParams]
 Title = "Hi, I'm Gram 👋"
-Content = "This is a big pile where I throw some of my creative stuff: poetry, music, drwaings, etc."
+Content = "This is a big pile where I throw some of my creative stuff: poetry, music, drawings, etc."
 
 [markup.goldmark.renderer]
 unsafe = true
