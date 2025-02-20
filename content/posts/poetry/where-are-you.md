@@ -3,6 +3,12 @@ title: "where are you"
 date: 2025-01-06
 ---
 
+This poem is about nostalgia. About a friend and lover I made 15 years ago. I still remember her fondly but I have no idea how to find and reach her and I probably shouldn't do that anyway.
+
+That's one of the hardest to read poems that I wrote. The 1st line rhymes with 4th instead of 2nd or 3rd which gives it a very asymmetric sound. You really need to emphasize the 1st line, kind of skimp through the 2nd and 3rd, and go back up again on the 4th line.
+
+---
+
 Where are you, dear friend, now  
 What are the people you talk  
 What are the roads you walk  

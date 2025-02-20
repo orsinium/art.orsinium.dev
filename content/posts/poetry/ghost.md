@@ -3,6 +3,12 @@ title: "ghost"
 date: 2025-01-12
 ---
 
+The first draft for this was called "shadow". You come through someone's live, cast a quick shadow, leave, and then never remember you again. Or maybe they do but you feel like they left a deeper, much deeper, mark on your life than you on theirs.
+
+That's one of my favorite verses so far in therms of rhytm. It's very easy for me to read and it sounds just right.
+
+---
+
 I'm not leaving any traces  
 And not breaking winter frost  
 One of the long forgotten faces  
