@@ -8,7 +8,7 @@ date: 2024-10-14
 | Original | Translation |
 |-|-|
 | Разбитый на части | Broken into pieces     |
-| В поисках счастья | In pursuit of hapiness |
+| В поисках счастья | In search for hapiness |
 | Ветер в голове    | Wind in the head       |
 | И покоя нет       | And no rest            |
 
