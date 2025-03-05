@@ -3,6 +3,8 @@ title: "could be"
 date: 2025-01-26
 ---
 
+<audio controls src="/could-be.ogg" preload="metadata"></audio>
+
 You could be my friend  
 I'd tell you all my secrets  
 Trust you to my end  

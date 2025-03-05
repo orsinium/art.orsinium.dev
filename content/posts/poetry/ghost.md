@@ -9,6 +9,8 @@ That's one of my favorite verses so far in therms of rhytm. It's very easy for m
 
 ---
 
+<audio controls src="/ghost.ogg" preload="metadata"></audio>
+
 I'm not leaving any traces  
 And not breaking winter frost  
 One of the long forgotten faces  

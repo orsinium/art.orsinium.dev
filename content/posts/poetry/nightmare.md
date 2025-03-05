@@ -7,6 +7,8 @@ The structure is similar to [you are](https://art.orsinium.dev/posts/poetry/you-
 
 ---
 
+<audio controls src="/nightmare.ogg" preload="metadata"></audio>
+
 I had a nightmare  
 That you betrayed my trust  
 And love that meant to last  

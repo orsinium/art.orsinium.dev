@@ -7,6 +7,8 @@ An attempt into a self-confidence verse, in the spirit of bands like Adelitas Wa
 
 ---
 
+<audio controls src="/sun.ogg" preload="metadata"></audio>
+
 Rust  
 Breaks the crust  
 And through the dust  

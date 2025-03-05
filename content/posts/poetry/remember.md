@@ -3,6 +3,8 @@ title: "remember"
 date: 2024-12-14
 ---
 
+<audio controls src="/remember.ogg" preload="metadata"></audio>
+
 Remember my name  
 When you feel all alone  
 And your summer is gone  

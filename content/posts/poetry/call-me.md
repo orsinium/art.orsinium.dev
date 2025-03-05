@@ -3,6 +3,8 @@ title: "call me"
 date: 2025-02-27
 ---
 
+<audio controls src="/call-me.ogg" preload="metadata"></audio>
+
 My veins are tangled wires  
 Binding ether and my soul  
 Drowning in my fears and cares  

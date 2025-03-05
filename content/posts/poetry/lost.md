@@ -7,6 +7,8 @@ This one starts in my regular slow poetical rhythm and then breaks into very sho
 
 ---
 
+<audio controls src="/lost.ogg" preload="metadata"></audio>
+
 You're throwing away the roses  
 And I'm counting my loses  
 I won't lose my peace because  
