@@ -7,6 +7,8 @@ The book "Passages" by Gail Sheehy covers crises that everyone goes through in t
 
 ---
 
+<audio controls src="/labels.ogg" preload="metadata"></audio>
+
 Let yourself be tad unstable  
 You don't need another label  
 Maybe you are queer and quirky  
