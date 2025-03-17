@@ -1,6 +1,7 @@
 ---
 title: "not sleeping"
-date: 2025-03-15
+date: 2025-03-16
+tags: [G2K]
 ---
 
 I already had a poem about missing someone over the long distance: [planets](https://art.orsinium.dev/posts/poetry/planets/). This time, however, it's more about "us being apart" than "me missing you".

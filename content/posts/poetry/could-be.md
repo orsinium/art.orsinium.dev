@@ -1,6 +1,7 @@
 ---
 title: "could be"
 date: 2025-01-26
+tags: [G2S]
 ---
 
 <audio controls src="/could-be.ogg" preload="metadata"></audio>

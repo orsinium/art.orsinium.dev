@@ -1,6 +1,7 @@
 ---
 title: "labels"
 date: 2025-03-15
+tags: [G2K]
 ---
 
 The book "Passages" by Gail Sheehy covers crises that everyone goes through in their live. I met a girl going through identity crisis, struggling to find herself and to understand her feelings. This poem is my words of support and encouragement to her. I've been here, I know how you feel, and I don't want you to go through this alone.

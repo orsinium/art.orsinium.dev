@@ -1,6 +1,7 @@
 ---
 title: "drifting apart"
 date: 2025-02-17
+tags: [G2S]
 ---
 
 I met someone hoping to get closer but only found myself distancing from her. When you anticipate a meeting, you make pretty pictures and plans in your head, and then reality will shutter it.

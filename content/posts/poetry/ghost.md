@@ -1,6 +1,7 @@
 ---
 title: "ghost"
 date: 2025-01-12
+tags: [G2S]
 ---
 
 The first draft for this was called "shadow". You come through someone's live, cast a quick shadow, leave, and then never remember you again. Or maybe they do but you feel like they left a deeper, much deeper, mark on your life than you on theirs.

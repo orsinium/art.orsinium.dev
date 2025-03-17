@@ -1,6 +1,7 @@
 ---
 title: "lost"
 date: 2024-10-23
+tags: [G2D]
 ---
 
 This one starts in my regular slow poetical rhythm and then breaks into very short and sharp verses. Maybe it could've been a song.

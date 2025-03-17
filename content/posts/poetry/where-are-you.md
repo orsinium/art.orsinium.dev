@@ -1,6 +1,7 @@
 ---
 title: "where are you"
 date: 2025-01-06
+tags: [G2V]
 ---
 
 This poem is about nostalgia. About a friend and lover I made 15 years ago. I still remember her fondly but I have no idea how to find and reach her and I probably shouldn't do that anyway.

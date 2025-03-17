@@ -1,6 +1,7 @@
 ---
 title: "nightmare"
 date: 2025-03-03
+tags: [G2D]
 ---
 
 The structure is similar to [you are](https://art.orsinium.dev/posts/poetry/you-are/) but the theme is polar opposite. This verse is a reflection on going through divorce and learning again to be alone.

@@ -1,6 +1,7 @@
 ---
 title: "you are"
 date: 2024-10-28
+tags: [G2S]
 ---
 
 The melody of this poem is inspired by [He Is](https://en.wikipedia.org/wiki/He_Is_(Ghost_song)) song by Ghost. In the chorus of the song, every line starts with "He is". My verses are less religios and more romantic. Maybe too romantic.

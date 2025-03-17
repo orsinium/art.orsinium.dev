@@ -1,6 +1,7 @@
 ---
 title: "call me"
 date: 2025-02-27
+tags: [G2S]
 ---
 
 <audio controls src="/call-me.ogg" preload="metadata"></audio>

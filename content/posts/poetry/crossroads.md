@@ -1,6 +1,7 @@
 ---
 title: "crossroads"
 date: 2024-10-07
+tags: [G2S]
 ---
 
 Falling in love is never easy, especially when you are a grown up with responsibilities. I will always follow logic and reason and the poetry is my way to scream my feelings.

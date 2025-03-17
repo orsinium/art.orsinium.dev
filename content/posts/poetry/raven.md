@@ -1,6 +1,7 @@
 ---
 title: "raven"
 date: 2025-03-05
+tags: [G2D]
 ---
 
 It's one of the few poems where I show a progressing story: the focus goes from me to a raven and then to the raven's scream.

@@ -1,6 +1,7 @@
 ---
 title: "remember"
 date: 2024-12-14
+tags: [G2S]
 ---
 
 <audio controls src="/remember.ogg" preload="metadata"></audio>

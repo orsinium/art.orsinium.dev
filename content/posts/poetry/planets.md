@@ -1,6 +1,7 @@
 ---
 title: "planets"
 date: 2024-11-12
+tags: [G2S]
 ---
 
 Sometimes, you want to bridge the distance, be with someone else, someone special, but you can't. Then it feels as if you, just like Le Petit Prince, live on your own little planet. And you miss your rose.
