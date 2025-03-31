@@ -1,5 +1,5 @@
 ---
-title: "not enough"
+title: "social cues"
 date: 2025-03-31
 tags: [G2K]
 ---
