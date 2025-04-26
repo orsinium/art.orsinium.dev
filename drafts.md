@@ -10,9 +10,60 @@ And I rebuild empire
 You pull my nerves through my spine
 And feed the body to the wolves
 Pin on me your devoted crime
-And I rules
+And I make my own rules
 
 You broke my bones countless times  
 You've blamed me in all the crimes  
 It takes more than that to bring me down  
 I am unsinkable
+
+## i want
+
+I want to kiss you  
+I want to touch you  
+I want to hold you  
+I want to drown in your eyes  
+
+I want to undress you  
+I want to open up to you  
+I want to smell you  
+I want to hear no more lies  
+
+Forget the world consumed by gray
+Hold my hand, let's run away.
+
+Message coming through my brain
+I want us to take a train
+
+## heartbreak
+
+Another heartbreak
+Just another drop in the sea
+
+My heart is made of stone
+It's just another night alone
+
+I thought I had it in my hands
+And now I die by a thousand cuts
+
+Shivers down my spine
+You never were mine
+
+## flames
+
+I lost something I never had
+But that's alright, I understand
+This is how I will hold my stand
+When flames consume my house
+
+## dance for me
+
+Dance for me
+This is all just a dream
+Dance for me
+Let me go with the stream
+
+Dance for me
+Like you have no emotional cargo
+Dance for me
+This grim fandango

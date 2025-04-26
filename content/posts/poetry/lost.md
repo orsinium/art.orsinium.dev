@@ -28,7 +28,7 @@ Leaving a stain
 On my fame  
 All in vain  
 Going insane  
-Crushing a plain  
+Crushing a plane  
 Wrecking a train  
 Through the lane  
 Through my brain  
