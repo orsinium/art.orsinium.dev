@@ -35,20 +35,6 @@ Hold my hand, let's run away.
 Message coming through my brain
 I want us to take a train
 
-## heartbreak
-
-Another heartbreak
-Just another drop in the sea
-
-My heart is made of stone
-It's just another night alone
-
-I thought I had it in my hands
-And now I die by a thousand cuts
-
-Shivers down my spine
-You never were mine
-
 ## flames
 
 I lost something I never had
@@ -67,3 +53,7 @@ Dance for me
 Like you have no emotional cargo
 Dance for me
 This grim fandango
+
+## stuck
+
+...
