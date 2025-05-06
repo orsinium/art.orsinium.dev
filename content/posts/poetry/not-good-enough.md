@@ -4,6 +4,14 @@ date: 2025-04-27
 tags: [G2K]
 ---
 
+This poem is composed from several drafts that I made on different days, giving it an interesting mix of "I'm broken" and "nothing will break me" moods. I find it to be a nice break from my usually consistent (and so perhaps too clean and boring) poetry.
+
+I use 3-line verses where the first two lines line with each other and the last line rhymes with the last line from another verse. Can you hear it? IDK but I watned to try anyway.
+
+---
+
+<audio controls src="/not-good-enough.ogg" preload="metadata"></audio>
+
 You said I am not good enough  
 That I do not deserve your love  
 We can't end what didn't start  

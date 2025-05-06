@@ -44,6 +44,10 @@ When flames consume my house
 
 ## dance for me
 
+I'm walking the line
+You're reading the sign
+We're dancing in this broken design.
+
 Dance for me
 This is all just a dream
 Dance for me
@@ -56,4 +60,18 @@ This grim fandango
 
 ## stuck
 
-...
+I open door after door
+I'm looking for you
+
+I'm not strong enough
+
+Like a month to a flame
+
+Going back to you
+
+Running in circles
+
+You got me stuck
+
+You are the reason I can't find somebody new
+I every new face, I'm looking for you
