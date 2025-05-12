@@ -1,7 +1,7 @@
 baseURL = "https://art.orsinium.dev/"
 languageCode = "en-us"
 title = "Gram's Art"
-paginate = 40
+pagination = { pagerSize = 40 }
 theme = "PaperMod"
 
 enableRobotsTXT = true
