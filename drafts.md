@@ -75,20 +75,3 @@ You got me stuck
 
 You are the reason I can't find somebody new
 I every new face, I'm looking for you
-
-## fake
-
-Fake laugh, fake smile
-Fake lips and mainstream style
-Strangely lonely in the crowd
-No words to say, and yet so loud
-
-No dreams, no ambitions
-No future and misguided volition
-Face frozen in an eternal frown
-Tons of makeup and a cardboard crown
-
-What's your hobby? Bar hopping.
-What's your music? Electro and looping.
-Wanna be loved? Well, maybe at the end
-For now, I'll do with one night stand
