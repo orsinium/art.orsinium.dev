@@ -75,3 +75,23 @@ You got me stuck
 
 You are the reason I can't find somebody new
 I every new face, I'm looking for you
+
+## alone
+
+Below is a song from my dream.
+
+Notes:
+
+7 ACDEDCD
+7 ACDEDCB
+
+Example lyrics with the right meter:
+
+7 And I don't think you're alone
+7 And I breathe until you're gone
+
+```text
+1    2      3       4       5       6       7
+and  i      dont    think   youre   a       lone
+and  i      breathe un      til     your    gone
+```
