@@ -76,6 +76,9 @@ You got me stuck
 You are the reason I can't find somebody new
 I every new face, I'm looking for you
 
+everything i know and fear  
+in this river between Vega and Altair
+
 ## alone
 
 Below is a song from my dream.
