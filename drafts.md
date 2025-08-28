@@ -105,25 +105,3 @@ You planted seed, a dark seed in my heart
 It grows deep, deeper into dark
 Its roots kill, strangle my body
 I see no escape, no help from anybody
-
-## a bee
-
-A bee doesn't know work or service,
-It just serves it's purpose.
-But do I have a purpose?
-Am I any better than a bee?
-Can I bee something more than me?
-
-You cannot punish tree into growth;
-It grows from roots connected to the world.
-You cannot stop from burning wings a moth
-With a mere persuation and a simple word.
-
-We tell ourselves that we're the future
-We set ourselves aside from nature
-We used to run with the wolfes
-And now our forests live in books
-
-I keep to tell myself a lie
-I want to pupate like a butterfly
-Into something new and better
