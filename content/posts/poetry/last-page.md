@@ -29,4 +29,4 @@ And notice in the dark a new glowing star
 And in that moment you feel  
 Same as you felt the day together  
 And that feeling you unseal  
-Will guide your way forever  
+Will light your way forever  
