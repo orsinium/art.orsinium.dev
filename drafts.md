@@ -42,22 +42,6 @@ But that's alright, I understand
 This is how I will hold my stand
 When flames consume my house
 
-## dance for me
-
-I'm walking the line
-You're reading the sign
-We're dancing in this broken design.
-
-Dance for me
-This is all just a dream
-Dance for me
-Let me go with the stream
-
-Dance for me
-Like you have no emotional cargo
-Dance for me
-This grim fandango
-
 ## stuck
 
 I open door after door
