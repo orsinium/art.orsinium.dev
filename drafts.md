@@ -63,6 +63,47 @@ I every new face, I'm looking for you
 everything i know and fear  
 in this river between Vega and Altair
 
+i really tried to follow through
+but now I am stuck
+in catch twenty two
+
+i wake up, I'm a creep
+i was flying in my sleep
+
+I'm watching blood drops fall
+tap tap tap
+ah, crap,
+another lap
+of endless race
+i just can't face
+reality alone
+
+the only feeling I've got
+is disdain
+was it all in vain
+repeating the same
+words over and over again
+in the empty room
+
+and I know i need help
+when you ask yourself
+no question is rhetorical
+
+I know death, I've seen it in your eyes
+
+Let me out
+I'm trapped in your life
+I want out
+
+## fake
+
+My smile says friendly
+Your brain reads needy
+
+One night stand as surrogate for love
+
+Teasing instead of admiration
+
 ## alone
 
 Below is a song from my dream.
