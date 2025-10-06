@@ -130,3 +130,25 @@ You planted seed, a dark seed in my heart
 It grows deep, deeper into dark
 Its roots kill, strangle my body
 I see no escape, no help from anybody
+
+## ladder
+
+01  i
+01  am
+01  lost
+02  tangled
+02  in words
+03  with every
+04  passing moment
+05  just getting closer
+07  to my final hopeless edge
+
+01  a
+01  day
+01  ends
+02  but my
+02  fear stays
+03  burried deep
+04  in my dark dreams
+05  burried in the head
+06  that I refuse to clean
