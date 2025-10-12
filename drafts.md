@@ -152,3 +152,10 @@ I see no escape, no help from anybody
 04  in my dark dreams
 05  burried in the head
 06  that I refuse to clean
+
+...
+02 the cold
+02 that i
+01 see
+01 in
+01 u
