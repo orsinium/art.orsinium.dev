@@ -150,8 +150,8 @@ I see no escape, no help from anybody
 02  fear stays
 03  burried deep
 04  in my dark dreams
-05  burried in the head
-06  that I refuse to clean
+05  hidden in the heart
+06  that I will not accept
 
 ...
 02 the cold
