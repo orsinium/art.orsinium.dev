@@ -25,3 +25,20 @@ This poems is written in [leet-speak](https://en.wikipedia.org/wiki/Leet) using 
 [105357 81!72 !5 74[7![41
 8395 70 83 !1109![41
 ```
+
+Decoded:
+
+Statistical loss  
+Sabotaged too close  
+I'll settle the cost  
+It is cell I'll host  
+
+Light taste each  
+Base total glitch  
+Chill as static  
+Hectic aestetic  
+
+Select illegal tale  
+Steal the ego at sale  
+Closest blitz is tactical  
+Begs to be illogical  
