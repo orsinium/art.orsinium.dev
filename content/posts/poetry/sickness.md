@@ -3,31 +3,31 @@ title: "sickness"
 date: 2025-11-02
 ---
 
-tears  
+Tears  
 for sickness my body bears  
-teeth  
+Teeth  
 scratching won't help breathe  
-fever  
-makes me wish i was believer  
-cough  
-reminds me i'm not that tough  
-enough  
+Fever  
+makes me wish I was believer  
+Cough  
+reminds me I'm not that tough  
+Enough  
 
-cold  
+Cold  
 taking over my world  
-fear  
-the only thing i feel clear  
-fade  
+Fear  
+the only thing I feel clear  
+Fade  
 into lies I made  
-shell  
-of insecurities i dwell  
-unwell  
+Shell  
+of insecurities I dwell  
+Unwell  
 
-pain  
+Pain  
 running through my brain  
-meds  
+Meds  
 can't take away regrets  
-walls  
+Walls  
 are heavy and too close  
-again  
+Again  
 insane  
