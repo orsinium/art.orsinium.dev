@@ -159,3 +159,27 @@ I see no escape, no help from anybody
 01 see
 01 in
 01 u
+
+## misc
+
+you carved your name into my flesh
+
+i hear your name in the wind
+
+from this moment and to the past
+i walk my memory on broken glass
+
+i pick up shattered pieces and try to rebuild my trust
+but nothing seems to fit
+
+I've read my faith on the wall of a toilet stall
+
+i'm holding my phone
+waiting for anybody to call
+but nobody will
+
+one last cold kiss
+and i drift in forever sleep
+
+you was my bride
+you used me a threw by the wayside
