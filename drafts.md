@@ -169,6 +169,14 @@ i'm holding my phone
 waiting for anybody to call
 but nobody will
 
+and all i have is a dirt at the bottom of my pockets
+
+i'm plunging deep into despair
+some things are broken beyond repair
+
+i'm just extra in this story
+i'm alone and don't belong
+
 ## death's kiss
 
 one last cold kiss
