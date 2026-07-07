@@ -153,10 +153,13 @@ I see no escape, no help from anybody
 05  hidden in the heart
 06  that I will not accept
 
-...
+06 no matter where you are
+05 every moonless night
+04 i stand in rain
+03 breathing in
 02 the cold
 02 that i
-01 see
+01 know
 01 in
 01 u
 
@@ -176,6 +179,9 @@ some things are broken beyond repair
 
 i'm just extra in this story
 i'm alone and don't belong
+
+I'm losing every fight
+I wish to smile because and not despite
 
 ## death's kiss
 
