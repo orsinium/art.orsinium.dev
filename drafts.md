@@ -131,38 +131,6 @@ It grows deep, deeper into dark
 Its roots kill, strangle my body
 I see no escape, no help from anybody
 
-## ladder
-
-01  i
-01  am
-01  lost
-02  tangled
-02  in words
-03  with every
-04  passing moment
-05  just getting closer
-07  to my final hopeless edge
-
-01  a
-01  day
-01  ends
-02  but my
-02  fear stays
-03  burried deep
-04  in my dark dreams
-05  hidden in the heart
-06  that I will not accept
-
-06 no matter where you are
-05 every moonless night
-04 i stand in rain
-03 breathing in
-02 the cold
-02 that i
-01 know
-01 in
-01 u
-
 ## misc
 
 you carved your name into my flesh
@@ -194,3 +162,12 @@ I just want to
     sleep
         sleep
             sleeping away
+
+## kiss
+
+i don't smoke anything except your lips
+i'm addicted to that taste, sweet and light
+and i don't care what happens next
+only if you stay with me tonight
+
+your kisses taste like bitter almond
